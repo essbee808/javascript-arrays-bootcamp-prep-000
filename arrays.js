@@ -51,6 +51,7 @@ function removeElementFromEndOfArray() {
   return array2;
 }
 
+//Mutate
 function destructivelyRemoveElementFromEndOfArray() {
   array1.push(element);
   return array1;
