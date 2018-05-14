@@ -51,3 +51,6 @@ function removeElementFromEndOfArray() {
   return array2;
 }
 
+function destructivelyRemoveElementFromEndOfArray() {
+  
+}
