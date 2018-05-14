@@ -52,7 +52,7 @@ function removeElementFromEndOfArray() {
 }
 
 //Mutate
-function destructivelyRemoveElementFromEndOfArray() {
+function destructivelyRemoveElementFromEndOfArray(array, element) {
   array2.push(element);
   return array1;
 }
