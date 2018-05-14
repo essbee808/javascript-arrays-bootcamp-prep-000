@@ -55,5 +55,5 @@ function removeElementFromEndOfArray() {
 function destructivelyRemoveElementFromEndOfArray(array, element) {
   var something = ["pig", "lion", "watch"];
   something.pop();
-  return array1;
+  return something;
 }
