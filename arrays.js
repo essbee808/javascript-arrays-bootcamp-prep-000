@@ -52,6 +52,6 @@ function removeElementFromEndOfArray() {
 }
 
 function destructivelyRemoveElementFromEndOfArray() {
-  array.push(element);
+  array1.push(element);
   return array;
 }
