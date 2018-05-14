@@ -46,13 +46,13 @@ function removeElementFromBeginningOfArray() {
 
 // Not mutate
 function removeElementFromEndOfArray() {
-  var array2 = [2,3,4];
+  var array2 = [1, 2, 3];
   array2.pop();
   return array2;
 }
 
 //Mutate
 function destructivelyRemoveElementFromEndOfArray() {
-  array1.push(element);
+  array2.push(element);
   return array1;
 }
