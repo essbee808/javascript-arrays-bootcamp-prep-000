@@ -53,6 +53,6 @@ function removeElementFromEndOfArray() {
 
 //Mutate
 function destructivelyRemoveElementFromEndOfArray(array, element) {
-  array1 = array1.pop([2]);
+  array1.pop();
   return array1;
 }
